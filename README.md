@@ -6,7 +6,7 @@
 <img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' align="left" />
 <h2 align="left">Hey there! I'm Hector Rosas</h2>
 -->
-<img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' style="margin-right: 10px;" /><h2 align="left">Hey there! I'm Hector Rosas</h2>
+<img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Hector Rosas</h2>
 
 
 
