@@ -1,3 +1,18 @@
+<div style="display: flex; align-items: center;">
+    <img alt="Night Coding" src="./img/Imagen de pngtree.com.png" width='900' align="center" style="margin: 10px; />
+    <h2 align="left">
+</div>
+
+<!--
+<img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' align="left" />
+<h2 align="left">Hey there! I'm Hector Rosas</h2>
+-->
+<div style="display: flex; align-items: center;">
+    <img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' style="margin-right: 10px;" />
+    <h2 style="margin: 0;">Hey there! I'm Hector Rosas</h2>
+</div>
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 I'm a Computer Engineer with a diploma in Data Analytics from the International University of La Rioja (UNIR). With a strong passion for technology and data analysis, I actively explore ways to optimize processes and solve problems using tools like Python, SQL, Excel, and Looker Studio.
 
@@ -13,7 +28,7 @@ Quality Control & Database Analyst at Editorial Bebé Genial – Expertise in da
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+<img alt="Night Coding" src="./img/Night-Coding.gif"
     align="right" />
 
 ### 🛠 &nbsp;Tech Stack
@@ -75,6 +90,14 @@ Quality Control & Database Analyst at Editorial Bebé Genial – Expertise in da
 
 
 ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/hector-rosas-ing/"><img
+            src="https://img.shields.io/badge/-Hector%20Rosas-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+    <a href="mailto:hectorj22@gmail.com"><img
+            src="https://img.shields.io/badge/-Hector%20Rosas-E4405F?style=flat&logo=Gmail&logoColor=white" /></a>
+</p>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/hector-rosas-ing/"><img
