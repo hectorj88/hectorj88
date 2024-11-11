@@ -3,8 +3,8 @@
 </div>
 
 
-<img alt="Night Coding" src="./img/Hand Wave.gif" width='40' align="left" /><h2 align="left">Hey there! I'm Hector Rosas</h2>
-
+<img alt="Night Coding" src="./img/Hand Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Hector Rosas</h2>
+<!-- ## 👋 &nbsp;Hey there! I'm Hector Rosas -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 I'm a Computer Engineer with a diploma in Data Analytics from the International University of La Rioja (UNIR). With a strong passion for technology and data analysis, I actively explore ways to optimize processes and solve problems using tools like Python, SQL, Excel, and Looker Studio.
