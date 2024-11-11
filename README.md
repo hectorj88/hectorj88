@@ -7,8 +7,7 @@
 <img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' align="left" />
 <h2 align="left">Hey there! I'm Hector Rosas</h2>
 -->
-<img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' style="margin-right: 10px;" />
-<h2 style="margin: 0;">Hey there! I'm Hector Rosas</h2>
+<img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' style="margin-right: 10px;" /><h2 style="margin: 0;">Hey there! I'm Hector Rosas</h2>
 
 
 
@@ -96,12 +95,3 @@ Quality Control & Database Analyst at Editorial Bebé Genial – Expertise in da
     <a href="mailto:hectorj22@gmail.com"><img
             src="https://img.shields.io/badge/-Hector%20Rosas-E4405F?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
-
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/hector-rosas-ing/"><img
-            src="https://img.shields.io/badge/-Hector%20Rosas-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-    <a href="mailto:hectorj22@gmail.com"><img
-            src="https://img.shields.io/badge/-Hector%20Rosas-E4405F?style=flat&logo=Gmail&logoColor=white" /></a>
-</p>
-
